@@ -44,7 +44,7 @@ Git, Linux, Maven, Nexus
 - Managed pods, services, and deployments  
 - Troubleshot pod crashes and optimized configurations  
 
-👉 View Project  
+👉 View Project : https://github.com/shivaprasadyadav/k8s-microservices-project.git
 
 ---
 
