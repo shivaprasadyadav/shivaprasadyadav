@@ -5,10 +5,14 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Learning **DevOps, AWS, Kubernetes**
-- 💼 Currently working as  Associate
-- 🎯 Goal: Switch to Cloud / DevOps Role
 
+DevOps Engineer with hands-on experience in building and automating infrastructure.
+
+- 🚀 Completed training in **DevOps & Cloud**
+- ⚙️ Worked with **AWS, Docker, Kubernetes, Jenkins, Terraform**
+- 🔁 Built CI/CD pipelines and deployment workflows
+- 📈 Passionate about automation and scalable systems
+- 🎯 Open to **DevOps / Cloud Engineer roles**
 ---
 
 <p align="center">
