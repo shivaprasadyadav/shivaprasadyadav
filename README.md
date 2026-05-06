@@ -9,6 +9,7 @@
 - 💼 Currently working as  Associate
 - 🎯 Goal: Switch to Cloud / DevOps Role
 
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-DevOps%20Engineer-blue?style=for-the-badge"/>
@@ -16,18 +17,15 @@
   <img src="https://img.shields.io/badge/Tools-Docker%20%7C%20Kubernetes-green?style=for-the-badge"/>
 </p>
 
-
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&cache_seconds=1800)
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
+---
 
 ### ⚙️ Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,jenkins,terraform" />
 </p>
+
+---
 
 ### 🔗 Connect with me
 
