@@ -19,8 +19,7 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&cache_seconds=1800)
 ![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
 
