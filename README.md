@@ -31,5 +31,5 @@
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](your-link)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](www.linkedin.com/in/shivaprasad-a-b42606168)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)]([your-link](https://github.com/shivaprasadyadav))
