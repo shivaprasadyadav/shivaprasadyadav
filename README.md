@@ -42,7 +42,7 @@ DevOps Engineer with hands-on experience in building and automating infrastructu
 #### 🔧 CI/CD Pipeline using Jenkins
 - Automated build, test, and deployment
 - Tech: Jenkins, Docker, GitHub Actions  
-👉 [View Project]([https://github.com/YOUR_USERNAME/project1](https://github.com/shivaprasadyadav/dockerwebapp.git))
+👉 [View Project](https://github.com/shivaprasadyadav/dockerwebapp.git)
 
 ---
 
