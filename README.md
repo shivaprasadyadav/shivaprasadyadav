@@ -22,3 +22,14 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+### ⚙️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,jenkins,terraform" />
+</p>
+
+### 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](your-link)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](your-link)
