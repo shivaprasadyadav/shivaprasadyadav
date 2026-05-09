@@ -49,7 +49,7 @@ DevOps Engineer with hands-on experience in building and automating infrastructu
 #### ☁️ AWS 3-Tier Architecture
 - Deployed scalable infra using EC2, ALB, RDS
 - Tech: AWS, Terraform  
-👉 [View Project](https://github.com/YOUR_USERNAME/project2)
+👉 [View Project](https://github.com/shivaprasadyadav/ltibbhackathon.git)
 
 ---
 
