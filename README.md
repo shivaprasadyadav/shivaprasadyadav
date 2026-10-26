@@ -33,7 +33,7 @@ DevOps Engineer with hands-on experience in building and automating infrastructu
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](href="www.linkedin.com/in/shivaprasad-yadav")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/shivaprasad-yadav)
 
 ---
 
