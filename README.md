@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Shiva Prasad Yadav 👋
+# Hi, I'm Shivaprasad 👋
 ### Aspiring DevOps & Python Developer | Tech Black
 
 </div>
